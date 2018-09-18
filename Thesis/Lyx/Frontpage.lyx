@@ -1,0 +1,346 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass book
+\use_default_options false
+\maintain_unincluded_children false
+\language italian
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 0
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Indice
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0cm
+\topmargin 1cm
+\rightmargin 0cm
+\bottommargin 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language swedish
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\paragraph_spacing other 0.90
+\align center
+
+\size larger
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty} 
+\backslash
+setcounter{page}{1000}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -1.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename Immagini/logo.jpg
+	width 35text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\series bold
+\size largest
+\noun on
+università degli studi di parma
+\series default
+\size larger
+\noun default
+
+\begin_inset VSpace -0.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\series bold
+\shape smallcaps
+\size large
+dipartimento di ingegneria dell'informazione
+\shape default
+
+\begin_inset VSpace -0.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\series bold
+\shape smallcaps
+\size large
+\lang english
+corso di laurea in ingegneria
+\shape default
+\lang italian
+
+\begin_inset VSpace -0.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\series bold
+\shape smallcaps
+\size large
+\lang english
+informatica, elettronica e delle telecomunicazioni
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+\lang english
+ESTRAZIONE DI SPIGOLI IN IMMAGINI MEDIANTE L’ALGORITMO DI HARRIS
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size larger
+\lang english
+\begin_inset VSpace -0.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\lang english
+IMAGE CORNERS EXTRACTION BY HARRIS ALGORITHM
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.90
+\begin_inset VSpace 1cm
+\end_inset
+
+
+\series bold
+\lang english
+Relatore:
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\lang english
+Prof.
+ Ing.
+ 
+\shape smallcaps
+\size large
+Riccardo Raheli
+\size default
+
+\begin_inset VSpace 0.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.90
+
+\series bold
+\lang english
+Correlatore:
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\lang english
+Dott.
+ Ing.
+ 
+\shape smallcaps
+\size large
+Carlo Tripodi
+\size default
+
+\begin_inset VSpace 0.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.90
+
+\series bold
+\lang english
+\begin_inset space \hfill{}
+\end_inset
+
+Tesi di Laurea di:
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\shape smallcaps
+\lang english
+\begin_inset space \hfill{}
+\end_inset
+
+Leonardo Tanzi
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset VSpace 1cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\lang english
+ANNO ACCADEMICO 2015/2016
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
